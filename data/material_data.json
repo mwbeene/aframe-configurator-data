@@ -1,21 +1,19 @@
-{ 
-  "materials": [
-    {
-      "name": "cube",
-      "materials": 
-        [
-          {"name": "red"},
-          {"name": "blue"},
-          {"name": "green"}
-        ]
-    },
-    {
-      "name": "sphere",
-      "materials":
-        [
-          {"name": "orange"},
-          {"name": "purple"}
-        ]
-    }
-  ]
-}
+[
+  {
+    "name": "cube",
+    "materials": 
+      [
+        {"name": "red"},
+        {"name": "blue"},
+        {"name": "green"}
+      ]
+  },
+  {
+    "name": "sphere",
+    "materials":
+      [
+        {"name": "orange"},
+        {"name": "purple"}
+      ]
+  }
+]
