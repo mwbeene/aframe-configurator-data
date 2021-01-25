@@ -5,15 +5,15 @@
       [
         {
           "name": "red",
-          "button_color": "FF1F1F"
+          "button_color": "#FF1F1F"
         },
         {
           "name": "blue",
-          "button_color": "007BFF"
+          "button_color": "#007BFF"
         },
         {
           "name": "green",
-          "button_color": "00C206"
+          "button_color": "#00C206"
         }
       ]
   },
@@ -23,11 +23,11 @@
       [
         {
           "name": "orange",
-          "button_color": "FF5900"
+          "button_color": "#FF5900"
         },
         {
           "name": "purple",
-          "button_color": "AD0099"
+          "button_color": "#AD0099"
         }
       ]
   }
