@@ -3,17 +3,32 @@
     "name": "cube",
     "materials": 
       [
-        {"name": "red"},
-        {"name": "blue"},
-        {"name": "green"}
+        {
+          "name": "red",
+          "button_color": "FF1F1F"
+        },
+        {
+          "name": "blue",
+          "button_color": "007BFF"
+        },
+        {
+          "name": "green",
+          "button_color": "00C206"
+        }
       ]
   },
   {
     "name": "sphere",
     "materials":
       [
-        {"name": "orange"},
-        {"name": "purple"}
+        {
+          "name": "orange",
+          "button_color": "FF5900"
+        },
+        {
+          "name": "purple",
+          "button_color": "AD0099"
+        }
       ]
   }
 ]
